@@ -1,0 +1,47 @@
+@charset "EUC-KR";
+.main a{
+	position : relative;
+	float : left;
+	font-size : 28px;
+	font-weight : bold;
+	left : 10px;
+	top : -5px;
+	text-decoration : none;
+	color : black;
+	
+	
+	
+}
+.menubar{
+	
+	height: 45px;
+	border-bottom: 1px solid rgba(45, 64, 89, 0.2);
+	
+}
+.menu{
+	float : right;
+	padding : 0px 45px;
+}
+.menuul{
+	margin:0;
+	padding:0;
+	
+}
+.menuli{
+	list-style-type:none;
+	float : left;
+	
+}
+.menu a{
+	padding : 8px 28px;
+	display : block;
+	font-weight : bold;
+	font-size : 12px;
+	color : black;
+	text-decoration : none;
+}
+
+.a{
+	text-decoration : none;
+	
+}

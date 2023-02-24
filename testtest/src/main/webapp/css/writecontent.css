@@ -1,0 +1,189 @@
+@charset "EUC-KR";
+.body{
+	width : 1920px;
+	height: 1440px;
+}
+.createnav{
+	position : relative;
+	margin : 0 auto;
+	display : block;
+	
+	
+	
+}
+.createnew{
+	position : relative;
+	margin : 0 auto;
+	padding: 30px 30px;
+	padding-bottom : 0px;
+	text-align : center;
+	font-size : 30px;
+	
+}
+.createhr{
+	position : relative;
+	margin : 0px 300px;
+	
+	
+}
+.round{
+	position : relative;
+	margin-left : 1100px;
+	margin-right : 0px;
+	padding : 20px 0px;
+	
+	
+	
+}
+.roundspan{
+	position :relative;
+	font-size : 25px;
+	font-weight:bold;
+	padding:0px 10px;
+	
+	
+}
+.round1{
+	position : relative;
+	width : 100px;
+	height : 40px;
+	padding:0px 10px;
+	
+}
+.round1span{
+	position : relative;
+	font-size : 25px;
+	font-weight:bold;
+	padding:0px 10px;
+	
+	
+}
+.round2{
+	position : relative;
+	width : 100px;
+	height : 40px;
+	padding:0px 10px;
+	
+}
+.round2span{
+	position : relative;
+	font-size : 25px;
+	font-weight:bold;
+	padding:0px 10px;
+	
+}
+.newsection {
+	position : relative;
+	margin :0px 400px;
+	height : 500px;
+	
+}
+.inputbox{
+	position : relative;
+	width : 400px;
+	float : left;
+	padding: 20px 20px;
+	
+	
+	
+	
+	
+}
+.imagebox{
+	position : relative;
+	border:1px solid black;
+	height : 300px;
+	
+}
+.imagefile{
+	position : relative;
+	padding : 10px 10px;
+
+}
+.inputbox2{
+	position : relative;
+	width : 600px;
+	float : right;
+	padding : 10px 10px;
+	margin : 0px 0px;
+	
+}
+.createhr2{
+	position : relative;
+	margin : 0px 300px;
+}
+
+.cancel{
+	width : 250px;
+	height : 50px;
+	background-color : white;
+	color : #4478A8;
+	border-color : #4478A8;
+	
+	margin : 0px 100px;
+	
+
+}
+.create{
+	width : 250px;
+	height: 50px;
+	background-color : #4478A8;
+	color : white;
+	float : right;
+	margin : 0px 100px;
+	border :#4478A8;
+	
+}
+.underline{
+	position : relative;
+	width : 120px;
+
+}
+.free{
+	text-align:center;
+	margin : 10px 0px;
+	margin-bottom : 25px;
+	
+}
+.checkbox{
+	position : relative;
+	padding : 20px 50px;
+	text-align : center;
+}
+.footerinput{
+	position : relative;
+	padding: 30px 0px;
+	margin : 0px 460px;
+	
+	
+}
+.before{
+	position : relative;
+	background-color : #4478A8;
+	border : none;
+	color : white;
+	width : 85px;
+	height : 35px;
+	font-size : 20px;
+	object-fit:cover;
+	
+}
+.next{
+	position : relative;
+	background-color : #4478A8;
+	border : none;
+	color : white;
+	float : right;
+	width : 85px;
+	height : 35px;
+	font-size : 20px;
+	object-fit:cover;
+	
+}
+.footerinput2{
+	position : relative;
+	padding: 30px 0px;
+	margin : 0px 300px;
+	
+	
+}

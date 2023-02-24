@@ -1,0 +1,121 @@
+@charset "EUC-KR";
+
+.mycontentnav{
+	position : relative;
+	display : block;
+	
+	margin : 0px 300px;
+	margin-top : 30px;
+	border-bottom : 1px solid rgba(35,35,35,0.6);
+	
+	
+		
+	
+}
+.contenthr{
+	position : relative;
+	margin : 0px 0px;
+}
+
+.mycontent{
+	
+	font-size : 30px;
+	font-weight : bold;
+	position : relative;
+	margin : 0px 0px;
+	
+}
+.buttonspan{
+	position:relative;
+
+	float : right;
+	
+}
+.createspan{
+	position : relative;
+	float : right;
+}
+.delete{
+	position : relative;
+	
+	border : 1px solid #98A3B4;
+	background-color : white;
+	margin-top : 10px;
+	border-radius : 5px 5px 5px 5px;
+	margin-left : 10px;
+	cursor : pointer;
+	
+}
+.create{
+	position : relative;
+	
+	border : 1px solid #98A3B4;
+	background-color : white;
+	margin-top : 10px;
+	border-radius : 5px 5px 5px 5px;
+	cursor : pointer;
+}
+.contentsection{
+	position : relative;
+	margin : 0px 380px;
+	
+	
+}
+.contentbox{
+	position : relatvie;
+	margin : 10px 0px;
+	
+	
+}
+.searchbox{
+	width : 430px;
+	height: 25px;
+	
+}
+.search{
+	width:70px;
+	height: 25px;
+	background-color : #4478A8;
+	color : white;
+	border-color: #4478A8;
+}
+.contentdiv{
+	position : relative;
+	text-align : center;
+	
+	
+}
+.contentsection2{
+	position : relative;
+	height : 300px;
+	margin : 20px 300px;
+}
+.ullist{
+	position : relative;
+	margin : 0px 30px;
+	list-style : none;
+	float : left;
+	
+	
+	
+	
+	
+}
+.content1{
+	list-style : none;
+	
+	
+	
+}
+.image{
+	border : 1px solid black;
+	width : 180px;
+	height : 180px;
+}
+
+
+
+.contenthr2{
+	position : relative;
+	margin : 0px 300px;
+}
